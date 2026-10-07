@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-09-14T15:46:56+0800",
+  "python": "3.12.14",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "gpu_total_MiB": 8187.5,
+  "torch_cuda": "12.8",
+  "threads": 4,
+  "packages": {
+    "torch": "2.8.0+cu128",
+    "torchvision": "0.23.0+cu128",
+    "ultralytics": "8.4.137",
+    "numpy": "2.5.2",
+    "opencv-python": "5.0.0.93",
+    "pycocotools": "2.0.11"
+  },
+  "annotation_sha256": "788e2dae83c86bd547be7fab269d6399df5671063d29a61360cdb2cc370d2b14",
+  "num_images": 8,
+  "gt_annotations": 5
+}
