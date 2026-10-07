@@ -1,0 +1,5 @@
+# Install torch/torchvision from the CUDA 12.8 index as described in README.
+ultralytics==8.4.137
+numpy==2.5.2
+opencv-python==5.0.0.93
+pycocotools==2.0.11
