@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://s3.amazonaws.com/images.cocodataset.org/annotations/annotations_trainval2017.zip",
+    "file": "<local-path>/annotations_trainval2017.zip",
+    "bytes": 252907541,
+    "sha256": "113a836d90195ee1f884e704da6304dfaaecff1f023f49b6ca93c4aaae470268"
+  },
+  {
+    "url": "https://s3.amazonaws.com/images.cocodataset.org/zips/val2017.zip",
+    "file": "<local-path>/val2017.zip",
+    "bytes": 815585330,
+    "sha256": "4f7e2ccb2866ec5041993c9cf2a952bbed69647b115d0f74da7ce8f4bef82f05"
+  },
+  {
+    "url": "https://github.com/ultralytics/assets/releases/download/v8.4.0/yolo26n-pose.pt",
+    "file": "<local-path>/yolo26n-pose.pt",
+    "bytes": 7878574,
+    "sha256": "eb3bb8268828aeaf515cec23a4bfafd793944a86fe9af94ba7823609c14522a9"
+  },
+  {
+    "url": "https://github.com/ultralytics/assets/releases/download/v8.4.0/yolo26s-pose.pt",
+    "file": "<local-path>/yolo26s-pose.pt",
+    "bytes": 24151790,
+    "sha256": "a083adb42303728ae14c4bd6bd56d80da46f82fb2564dbd6f31dcc92ea321646"
+  },
+  {
+    "url": "https://github.com/ultralytics/assets/releases/download/v8.4.0/yolo26m-pose.pt",
+    "file": "<local-path>/yolo26m-pose.pt",
+    "bytes": 49036866,
+    "sha256": "2fbf16367022256a226035695c5c389384c6706e8bb8ab8fcd0e7976f05443c4"
+  }
+]
