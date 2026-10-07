@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.pt
+*.onnx
+*.engine
+.cache/
+cache/
+data/
+datasets/
+checkpoints/
+runs/
+*rerun*/
+predictions.json
