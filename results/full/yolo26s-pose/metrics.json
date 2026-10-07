@@ -1,0 +1,37 @@
+{
+  "model": "yolo26s-pose",
+  "checkpoint_params": 11809352,
+  "fused_inference_params": 10359750,
+  "weights_MiB": 23.032941818237305,
+  "weights_sha256": "a083adb42303728ae14c4bd6bd56d80da46f82fb2564dbd6f31dcc92ea321646",
+  "metrics": {
+    "AP": 0.6227826717806324,
+    "AP50": 0.8507595793049991,
+    "AP75": 0.6822236279169506,
+    "AP_medium": 0.5550181062149704,
+    "AP_large": 0.7324911360299853,
+    "AR": 0.6879722921914357,
+    "AR50": 0.8973551637279596,
+    "AR75": 0.7429156171284634,
+    "AR_medium": 0.6138486752253483,
+    "AR_large": 0.7923076923076924
+  },
+  "latency_ms_mean": 10.828741997635612,
+  "latency_ms_median": 9.664149984018877,
+  "latency_ms_p95": 16.55693997454364,
+  "latency_repeat_means": [
+    10.740678997244686,
+    10.383548997924663,
+    11.36199799773749
+  ],
+  "stage_ms_mean": {
+    "preprocess": 1.1033596647515271,
+    "inference": 8.923957668982135,
+    "postprocess": 0.5024353325522194
+  },
+  "peak_allocated_MiB": 233.72021484375,
+  "peak_reserved_MiB": 274.0,
+  "num_images": 5000,
+  "num_predictions": 60171,
+  "evaluation_wall_s": 68.0147680999944
+}
